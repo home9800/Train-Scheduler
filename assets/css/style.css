@@ -1,0 +1,50 @@
+/* This is the header of the page */
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#header {
+    background-color: #743D27;
+    padding: 50px;
+    
+}
+
+
+/* Everything Below Header  */
+
+#workSpace {
+    margin-top: 50px;
+    border: 2px solid #2C6FAE;
+    border-radius: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+/* Mini Header */
+
+#miniHeader {
+    padding-top: 15px;
+    background-color:#2C6FAE;
+    height: 60px;
+}
+
+#miniHeader p {
+    color: White;
+    font-size: 18px;
+}
+
+.box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+/* The Schedule */ 
+
+table th {
+    padding: 20px 55px 20px 55px;
+}
